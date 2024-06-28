@@ -1,0 +1,102 @@
+.main-banner{
+   position: relative;
+}
+
+.main-banner-content{
+    position: absolute;
+    top: 10%;
+    left: 4%;
+    color: rgb(3, 3, 3);
+    line-height: 35px;
+}
+.button{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.small{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.small-banner{
+    position: relative;
+    
+ }
+ 
+ .small-banner-content{
+     position: absolute;
+     top: 10%;
+     left: 4%;
+     color: rgb(3, 3, 3);
+     line-height: 20px;
+     margin: 2% 0 2% 0;
+ }
+ .small-banner h6{
+    color:brown;
+ }
+ .gap-15 {
+     gap: 15px;
+ }
+ .catagories {
+    padding: 15px;
+    box-shadow: 0 0 10 px #0000001a;
+    border-bottom: 1px solid  rgb(226, 223, 223);
+ }
+ .blog-card{
+    border: 1px solid rgb(224, 221, 221);
+    line-height: 25px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    align-items: center;
+ }
+ .product-card{
+    border: 1px solid rgb(224, 221, 221);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+ }
+ .series-card{
+    border: 1px solid rgb(224, 221, 221);
+    background-color: white;
+    border-radius: 10px;
+ }
+ .series-card:hover{
+   background-color: black;
+   color: white;
+ }
+ .series-card-content{
+   line-height: 35px;
+   font-weight: 500;
+   padding: 50px;
+
+ }
+ .series-card-img{
+   padding:85px;
+   background-color: transparent;
+ }
+ .special-product{
+   border: 1px solid rgb(224, 221, 221);
+   background-color: white;
+   padding: 20px;
+   border-radius: 10px;
+}
+.special-product .special-product-content h5{
+   line-height: 40px;
+   
+}
+.special-product .special-product-content h6{
+   font-weight: bold;
+   line-height: 35px;
+ }
+
+ body > a {
+   text-decoration: none;
+}
+
+ 

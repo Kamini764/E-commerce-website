@@ -1,0 +1,62 @@
+.cross{
+    top:15px;
+    right: 15px;
+    padding: 3px;
+    cursor: pointer;
+}
+.compare-product-card{
+    border: 1px solid rgb(233, 230, 230);
+    background-color: white;
+   
+}
+.compare-product-details .product-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+.compare-product-details .price ,h6 {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 600;
+    padding: 10px 10px;
+}
+.compare-product-details h5,.title{
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 500;
+    padding: 10px 10px;
+}
+/* ..........................compare-product-end-here.................................. */
+.wishlist-product-card{
+    border: 1px solid rgb(233, 230, 230);
+    background-color: white;
+}
+/* ..........................login-card-end-here.................................. */
+
+.autho-card{
+    padding: 20px;
+    background-color: white;
+    width: 500px;
+    margin: 100px auto;
+}
+.gap-30{
+    gap:30px
+}
+.button2{
+    background-color: black;
+    color: white;
+}
+.button:hover{
+    background-color: rgb(190, 98, 65);
+    
+}
+.autho-card input{
+    background-color: #f5f5f7;
+}
+.fpass{
+    color: black;
+
+    
+}
